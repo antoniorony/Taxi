@@ -1,0 +1,4 @@
+$ cat .gitattributes
+
+*.js linguist-language=Php
+*.css linguist-language=Php
